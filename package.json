@@ -1,0 +1,16 @@
+{
+"name": "crystal789",
+"theme": "crystal 789",
+"version": "7.9.4",
+"description": "crystal 789 สมัครเว็บพนันเว็บตรง ระบบออโต้ รับเงินเครดิตฟรี",
+"keywords": [
+"crystal 789",
+"crystal 789 เครดิตฟรี",
+"crystal 789 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/crystal789",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
